@@ -79,8 +79,8 @@ http://177.234.249.178:8888/ESPN6/mpegts
 http://177.234.249.178:8888/ESPN7/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="us",freeform
+#EXTINF:-1 tvg-id="" group-title="us",freeform e
 http://206.212.244.63/69/mpegts
 
-#EXTINF:-1 tvg-id="" group-title="us",freeform
-http://206.212.244.63/69/mpegts
+#EXTINF:-1 tvg-id="" group-title="us",freeform w
+http://206.212.244.63/70/mpegts
