@@ -1,5 +1,34 @@
 #EXTM3U
-# ====== 
+# ====== Ecuador 
+
+#EXTINF:0 tvg-id="Teleamazonas.ec" group-title="Ecuador", TeleAmzns gye sd
+http://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live-audio_0=96000-video=2000000.m3u8
+
+#EXTINF:0 group-title="Ecuador",TeleAmzns uio sd
+http://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-audio_0=96000-video=2000000.m3u8
+
+#EXTINF:0 group-title="Ecuador",Ecuavisa sd
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks.m3u8?dpssid=c7a20c7a5ad5e3edf9f96c2a35c8d1c9&sid=ba5t1l1xb220083417256872f431de425&ndvc=0
+
+#EXTINF:0 group-title="Ecuador",TC
+http://177.234.249.178:8888/TC/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Ecuador", TVC 9
+http://45.224.97.181:9999/TVC/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Ecuador", RTU 9
+http://45.224.97.181:9999/RTU/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Ecuador", RTS 9
+http://45.224.97.181:9999/RTS/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Ecuador", gamavsn 9
+http://45.224.97.181:9999/Gamavision/index.m3u8
+
+
+
+
+
 
 #EXTINF:0 tvg-id="Caracol.co" group-title="Colombia",Caracol 178 8888
 http://177.234.249.178:8888/CARACOL/index.m3u8
