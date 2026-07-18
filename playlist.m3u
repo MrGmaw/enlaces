@@ -88,5 +88,5 @@ http://206.212.244.63/70/mpegts
 #EXTINF:-1 tvg-id="" group-title="us",nbc
 http://206.212.244.63/4244/mpegts
 
-
-http://206.212.244.63/4244/mpegts
+#EXTINF:-1 tvg-id="" group-title="us", Disney 
+http://206.212.244.63/3146/mpegts
