@@ -1,5 +1,14 @@
 #EXTM3U
 # ====== 
+
+#EXTINF:0 tvg-id="Caracol.co" group-title="Colombia",Caracol 178 8888
+http://177.234.249.178:8888/CARACOL/index.m3u8
+
+#EXTINF:0 tvg-id="RCN.co" group-title="Colombia",RCN 178 8888
+http://177.234.249.178:8888/RCN/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="1788888",Gourmet 
 http://177.234.249.178:8888/EL-GOURMET/index.m3u8
 
